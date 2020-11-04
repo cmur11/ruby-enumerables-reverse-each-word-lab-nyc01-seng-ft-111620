@@ -8,4 +8,5 @@ def reverse_each_word(sentence)
   reverse_sentence << word.reverse
  binding.pry
  end
+ binding.pry
 end
