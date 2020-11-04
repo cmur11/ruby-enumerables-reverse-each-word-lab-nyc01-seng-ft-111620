@@ -9,5 +9,5 @@ def reverse_each_word(sentence)
  #binding.pry
  end
  reverse_sentence.join(" ")
- binding.pry
+ #binding.pry
 end
