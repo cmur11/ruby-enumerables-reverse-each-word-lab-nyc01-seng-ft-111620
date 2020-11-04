@@ -8,5 +8,6 @@ def reverse_each_word(sentence)
   reverse_sentence = word.reverse
  #binding.pry
  end
+ reverse_sentence.join(" ")
  binding.pry
 end
