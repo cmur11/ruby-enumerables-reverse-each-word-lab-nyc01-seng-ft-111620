@@ -6,6 +6,6 @@ def reverse_each_word(sentence)
  split_sentence.each do |word|
    #binding.pry
   reverse_sentence = word.reverse
-  binding.pry
+ # binding.pry
  end
 end
